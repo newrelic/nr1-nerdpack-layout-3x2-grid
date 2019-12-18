@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "2x2-grid-layout",
-  "description": "Nerdpack nerdpack-layout-2x2-grid",
+  "name": "3x3-grid-layout",
+  "description": "Nerdpack nerdpack-layout-3x3-grid",
   "version": "0.1.0",
   "scripts": {
     "start": "nr1 nerdpack:serve",

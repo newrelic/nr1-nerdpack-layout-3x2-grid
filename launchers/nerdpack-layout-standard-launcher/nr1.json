@@ -1,7 +1,7 @@
 {
   "schemaType": "LAUNCHER",
-  "id": "nerdpack-layout-2x2-grid-launcher",
-  "description": "A boilerplate for the 2x2 grid nerdpack design layout ",
-  "displayName": "Nerdpack Layout - 2x2 grid",
-  "rootNerdletId": "nerdpack-layout-2x2-grid-nerdlet"
+  "id": "nerdpack-layout-3x3-grid-launcher",
+  "description": "A boilerplate for the 3x3 grid nerdpack design layout ",
+  "displayName": "Nerdpack Layout - 3x3 grid",
+  "rootNerdletId": "nerdpack-layout-3x3-grid-nerdlet"
 }
