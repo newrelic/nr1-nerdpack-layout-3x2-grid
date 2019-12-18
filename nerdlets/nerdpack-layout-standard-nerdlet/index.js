@@ -91,10 +91,10 @@ export default class NerdpackLayoutTBone extends React.Component {
                 <StackItem>
                   <p className="empty-state-description">
                     To use this layout, open up
-                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    <code>nerdpack-layout-3x2-grid-nerdlet/index.js</code> and
                     replace dummy content with your content. Have suggestions,
                     concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid" target="_blank"
               rel="noopener noreferrer">submit an issue or PR :)</a>
                     .
                   </p>
@@ -119,10 +119,10 @@ export default class NerdpackLayoutTBone extends React.Component {
                 <StackItem>
                   <p className="empty-state-description">
                     To use this layout, open up
-                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    <code>nerdpack-layout-3x2-grid-nerdlet/index.js</code> and
                     replace dummy content with your content. Have suggestions,
                     concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid" target="_blank"
               rel="noopener noreferrer">submit an issue or PR :)</a>
                     .
                   </p>
@@ -147,10 +147,10 @@ export default class NerdpackLayoutTBone extends React.Component {
                 <StackItem>
                   <p className="empty-state-description">
                     To use this layout, open up
-                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    <code>nerdpack-layout-3x2-grid-nerdlet/index.js</code> and
                     replace dummy content with your content. Have suggestions,
                     concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid" target="_blank"
               rel="noopener noreferrer">submit an issue or PR :)</a>
                     .
                   </p>
@@ -175,10 +175,10 @@ export default class NerdpackLayoutTBone extends React.Component {
                 <StackItem>
                   <p className="empty-state-description">
                     To use this layout, open up
-                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    <code>nerdpack-layout-3x2-grid-nerdlet/index.js</code> and
                     replace dummy content with your content. Have suggestions,
                     concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid" target="_blank"
               rel="noopener noreferrer">submit an issue or PR :)</a>
                     .
                   </p>
@@ -203,10 +203,10 @@ export default class NerdpackLayoutTBone extends React.Component {
                 <StackItem>
                   <p className="empty-state-description">
                     To use this layout, open up
-                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    <code>nerdpack-layout-3x2-grid-nerdlet/index.js</code> and
                     replace dummy content with your content. Have suggestions,
                     concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid" target="_blank"
               rel="noopener noreferrer">submit an issue or PR :)</a>
                     .
                   </p>
@@ -231,10 +231,10 @@ export default class NerdpackLayoutTBone extends React.Component {
                 <StackItem>
                   <p className="empty-state-description">
                     To use this layout, open up
-                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    <code>nerdpack-layout-3x2-grid-nerdlet/index.js</code> and
                     replace dummy content with your content. Have suggestions,
                     concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x2-grid" target="_blank"
               rel="noopener noreferrer">submit an issue or PR :)</a>
                     .
                   </p>
