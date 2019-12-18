@@ -74,7 +74,7 @@ export default class NerdpackLayoutTBone extends React.Component {
             It can just as easily contain content. This is just an example of how it
             may be used.
           */}
-          <GridItem className="primary-content-container" columnSpan={6}>
+          <GridItem className="primary-content-container" columnSpan={4}>
             <main className="primary-content full-height">
               <Stack
                 className="empty-state"
@@ -102,7 +102,7 @@ export default class NerdpackLayoutTBone extends React.Component {
               </Stack>
             </main>
           </GridItem>
-          <GridItem className="primary-content-container" columnSpan={6}>
+          <GridItem className="primary-content-container" columnSpan={4}>
             <main className="primary-content full-height">
               <Stack
                 className="empty-state"
@@ -130,7 +130,7 @@ export default class NerdpackLayoutTBone extends React.Component {
               </Stack>
             </main>
           </GridItem>
-          <GridItem className="primary-content-container" columnSpan={6}>
+          <GridItem className="primary-content-container" columnSpan={4}>
             <main className="primary-content full-height">
               <Stack
                 className="empty-state"
@@ -158,7 +158,7 @@ export default class NerdpackLayoutTBone extends React.Component {
               </Stack>
             </main>
           </GridItem>
-          <GridItem className="primary-content-container" columnSpan={6}>
+          <GridItem className="primary-content-container" columnSpan={4}>
             <main className="primary-content full-height">
               <Stack
                 className="empty-state"
@@ -171,6 +171,62 @@ export default class NerdpackLayoutTBone extends React.Component {
               >
                 <StackItem>
                   <h4 className="empty-state-header">Column 4</h4>
+                </StackItem>
+                <StackItem>
+                  <p className="empty-state-description">
+                    To use this layout, open up
+                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    replace dummy content with your content. Have suggestions,
+                    concerns, or ideas for how this template could be better?
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+              rel="noopener noreferrer">submit an issue or PR :)</a>
+                    .
+                  </p>
+                </StackItem>
+              </Stack>
+            </main>
+          </GridItem>
+          <GridItem className="primary-content-container" columnSpan={4}>
+            <main className="primary-content full-height">
+              <Stack
+                className="empty-state"
+                fullWidth
+                fullHeight
+                verticalType={Stack.VERTICAL_TYPE.CENTER}
+                horizontalType={Stack.HORIZONTAL_TYPE.CENTER}
+                directionType={Stack.DIRECTION_TYPE.VERTICAL}
+                gapType={Stack.GAP_TYPE.NONE}
+              >
+                <StackItem>
+                  <h4 className="empty-state-header">Column 5</h4>
+                </StackItem>
+                <StackItem>
+                  <p className="empty-state-description">
+                    To use this layout, open up
+                    <code>nerdpack-layout-3x3-grid-nerdlet/index.js</code> and
+                    replace dummy content with your content. Have suggestions,
+                    concerns, or ideas for how this template could be better?
+                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3x3-grid" target="_blank"
+              rel="noopener noreferrer">submit an issue or PR :)</a>
+                    .
+                  </p>
+                </StackItem>
+              </Stack>
+            </main>
+          </GridItem>
+          <GridItem className="primary-content-container" columnSpan={4}>
+            <main className="primary-content full-height">
+              <Stack
+                className="empty-state"
+                fullWidth
+                fullHeight
+                verticalType={Stack.VERTICAL_TYPE.CENTER}
+                horizontalType={Stack.HORIZONTAL_TYPE.CENTER}
+                directionType={Stack.DIRECTION_TYPE.VERTICAL}
+                gapType={Stack.GAP_TYPE.NONE}
+              >
+                <StackItem>
+                  <h4 className="empty-state-header">Column 6</h4>
                 </StackItem>
                 <StackItem>
                   <p className="empty-state-description">
