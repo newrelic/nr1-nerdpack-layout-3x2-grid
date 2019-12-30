@@ -86,7 +86,7 @@ export default class NerdpackLayoutTBone extends React.Component {
                 gapType={Stack.GAP_TYPE.NONE}
               >
                 <StackItem>
-                  <h4 className="empty-state-header">Column 1</h4>
+                  <h4 className="empty-state-header">Section 1</h4>
                 </StackItem>
               </Stack>
             </main>
@@ -103,7 +103,7 @@ export default class NerdpackLayoutTBone extends React.Component {
                 gapType={Stack.GAP_TYPE.NONE}
               >
                 <StackItem>
-                  <h4 className="empty-state-header">Column 2</h4>
+                  <h4 className="empty-state-header">Section 2</h4>
                 </StackItem>
                 <StackItem>
                   <p className="empty-state-description">
@@ -131,7 +131,7 @@ export default class NerdpackLayoutTBone extends React.Component {
                 gapType={Stack.GAP_TYPE.NONE}
               >
                 <StackItem>
-                  <h4 className="empty-state-header">Column 3</h4>
+                  <h4 className="empty-state-header">Section 3</h4>
                 </StackItem>
               </Stack>
             </main>
@@ -148,7 +148,7 @@ export default class NerdpackLayoutTBone extends React.Component {
                 gapType={Stack.GAP_TYPE.NONE}
               >
                 <StackItem>
-                  <h4 className="empty-state-header">Column 4</h4>
+                  <h4 className="empty-state-header">Section 4</h4>
                 </StackItem>
               </Stack>
             </main>
@@ -165,7 +165,7 @@ export default class NerdpackLayoutTBone extends React.Component {
                 gapType={Stack.GAP_TYPE.NONE}
               >
                 <StackItem>
-                  <h4 className="empty-state-header">Column 5</h4>
+                  <h4 className="empty-state-header">Section 5</h4>
                 </StackItem>
               </Stack>
             </main>
@@ -182,7 +182,7 @@ export default class NerdpackLayoutTBone extends React.Component {
                 gapType={Stack.GAP_TYPE.NONE}
               >
                 <StackItem>
-                  <h4 className="empty-state-header">Column 6</h4>
+                  <h4 className="empty-state-header">Section 6</h4>
                 </StackItem>
               </Stack>
             </main>
